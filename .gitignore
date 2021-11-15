@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+report*
+_00*
+draft.todo
+.env
+.DS_STORE
